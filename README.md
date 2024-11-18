@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Dadadadas
 
-<!--
-**dadadadas111/dadadadas111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Dadadadas (/ˈdɑː.dɑː.dɑː.dɑː.dɑːs/), a backend-focused software engineer passionate about cloud tech, IoT, and exploring AI solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+
+### Programming Languages
+- **Typescript**, **Javascript**, **Java**, **C#**, **Dart**
+
+### Frameworks & Tools
+- **Next.js**, **Express.js**, **NestJS**, **Flutter**, **Firebase**
+- **.NET**, **MQTT**, **Kafka**, **Docker**
+
+### Databases
+- **MySQL**, **SQL Server**, **MongoDB**, **Redis**, **Firestore**
+
+### CI/CD
+- **GitHub Actions**, **GitLab Pipelines**
+
+---
+
+## 📫 Contact Me
+- **Email:** [longnt121004@gmail.com](mailto:longnt121004@gmail.com)
+- **GitHub:** [dadadadas111](https://github.com/dadadadas111)
+- **Discord:** dadadadas111
+
+---
+
+## 🌟 Support Me
+If you like my work, feel free to give a ⭐ on my repositories. Thank you for your support!
