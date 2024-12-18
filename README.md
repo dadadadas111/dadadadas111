@@ -10,7 +10,6 @@ I'm Dadadadas (/ˈdɑː.dɑː.dɑː.dɑː.dɑːs/), a backend-focused software e
   height="300"
 />
 </a>
----
 
 ## 🔧 Skills
 
