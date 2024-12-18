@@ -3,6 +3,14 @@
 I'm Dadadadas (/ˈdɑː.dɑː.dɑː.dɑː.dɑːs/), a backend-focused software engineer passionate about cloud tech, IoT, and exploring AI solutions.
 
 ---
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/dadadadas111"
+  width="600"
+  height="300"
+/>
+</a>
+---
 
 ## 🔧 Skills
 
