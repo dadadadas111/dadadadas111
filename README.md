@@ -12,54 +12,18 @@ I'm Dadadadas (/ˈdɑː.dɑː.dɑː.dɑː.dɑːs/), a backend-focused software e
 ## 🔧 Skills
 
 ### Programming Languages
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60" alt="dart logo"  />
-</div>
+- **Typescript**, **Javascript**, **Java**, **C#**, **Dart**
 
 ### Frameworks & Tools
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="60" alt="nestjs logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" alt="firebase logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
-</div>
+- **Next.js**, **Express.js**, **NestJS**, **Flutter**, **Firebase**
+- **.NET**, **MQTT**, **Kafka**, **Docker**
 
 ### Databases
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="60" alt="redis logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="60" alt="microsoftsqlserver logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60" alt="sqlite logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-</div>
+- **MySQL**, **SQL Server**, **MongoDB**, **Redis**, **Firestore**
 
 ### CI/CD
 - **GitHub Actions**, **GitLab Pipelines**
----
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=dadadadas111&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/dadadadas111"
-  width="600"
-  height="300"
-/>
-</a>
+
 ---
 
 ## 📫 Contact Me
