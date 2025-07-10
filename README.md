@@ -37,7 +37,7 @@ I'm Dadadadas (/ˈdɑː.dɑː.dɑː.dɑː.dɑːs/), a backend-focused software e
   <a href="https://www.linkedin.com/in/th%C3%A0nh-long-nguy%E1%BB%85n-4a1b9329b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.facebook.com/nguyen.thanh.long.68914/" target="_blank">
+  <a href="https://www.facebook.com/dash.id.vn/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
   <a href="https://dadadadas111.itch.io/" target="_blank">
