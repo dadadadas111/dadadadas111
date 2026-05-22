@@ -1,53 +1,64 @@
-# Hi, I'm Long Nguyen 👋
+# Nguyen Thanh Long — Long Nguyen
 
-**Backend Engineer** specializing in scalable cloud architectures, IoT systems, and distributed microservices.
+**I build MCP servers, IoT backends, and full-stack systems.**
 
-I build robust backend solutions with modern tech stacks, focusing on performance, reliability, and clean architecture. Experienced in designing real-time data pipelines and integrating cloud-native applications.
-
----
-
-## 💼 What I Do Best
-
-🔹 **Backend Architecture** – Designing scalable APIs and microservices with Node.js, NestJS, and .NET  
-🔹 **Cloud & IoT** – Building distributed systems with MQTT, Kafka, and real-time data processing  
-🔹 **Database Design** – Optimizing SQL/NoSQL databases for high-performance applications  
-🔹 **CI/CD Automation** – Streamlining deployments with GitHub Actions and GitLab Pipelines
+Currently: Backend Developer at [Rogo Solutions](https://rogo.com.vn) — powering 43,000+ smart devices.  
+Open to: Freelance contracts for MCP server builds, backend APIs, and IoT integrations.
 
 ---
 
-## 🛠️ Tech Stack
+## What I Can Build For You
+
+| Service | What you get |
+|---|---|
+| **MCP Server** | A production-ready MCP gateway that connects Claude / ChatGPT to your existing REST API — multi-tenant, Redis-backed sessions, OAuth 2.1 |
+| **IoT Backend** | Scalable NestJS/MQTT service for device state management, real-time telemetry, and command dispatch |
+| **Backend API** | Clean TypeScript REST or GraphQL API with PostgreSQL/MongoDB, Docker, CI/CD |
+| **Automation Script** | One-shot Python/Node.js scripts for data pipelines, scraping, webhook processing |
+
+→ **[longnt121004@gmail.com](mailto:longnt121004@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/th%C3%A0nh-long-nguy%E1%BB%85n-4a1b9329b/)** · **[Portfolio](https://dash.id.vn)**
+
+---
+
+## Featured Work
+
+**[iot-cloud-mcp](https://github.com/dadadadas111/iot-cloud-mcp)** — MCP gateway for Rogo IoT Cloud. 15 tools. OAuth 2.1. Multi-tenant. Production-deployed.  
+`NestJS` `TypeScript` `Redis` `OAuth 2.1` `MCP SDK`
+
+**[SketchMath](https://github.com/dadadadas111/SketchMath)** — Canvas-based geometry drawing tool with AI feedback.  
+`JavaScript` `Canvas API`
+
+**[firebase-token-helper](https://github.com/dadadadas111/firebase-token-helper)** — CLI to mint Firebase custom tokens for dev/test.  
+`JavaScript` `Firebase`
+
+---
+
+## Tech Stack
 
 **Backend & Languages**  
-<div align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-</div>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 **Frontend & Mobile**  
-<div align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-</div>
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-**Infrastructure & DevOps**  
-<div align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI" />
-</div>
+**Data & Messaging**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
 
-**Databases**  
-<div align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-</div>
+**Infrastructure**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ---
 
@@ -59,26 +70,7 @@ I build robust backend solutions with modern tech stacks, focusing on performanc
 
 ---
 
-## 📫 Contact Me
-<div align="left">
-  <a href="https://gitlab.com/long6athcskl" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gitlab logo"  />
-  </a>
-  <a href="mailto:longnt121004@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/th%C3%A0nh-long-nguy%E1%BB%85n-4a1b9329b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/dash.id.vn/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-  <a href="https://dadadadas111.itch.io/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="itch logo"  />
-  </a>
-</div>
-
----
-
-## 🌟 Support Me
-If you like my work, feel free to give a ⭐ on my repositories. Thank you for your support!
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/th%C3%A0nh-long-nguy%E1%BB%85n-4a1b9329b/)
+[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:longnt121004@gmail.com)
+[![Portfolio](https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://dash.id.vn)
+[![GitLab](https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge)](https://gitlab.com/long6athcskl)
